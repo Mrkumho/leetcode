@@ -1,5 +1,5 @@
-// Runtime: 12 ms, faster than 71.72% of C++ online submissions for Reshape the Matrix.
-// Memory Usage: 10.8 MB, less than 41.85% of C++ online submissions for Reshape the Matrix.
+/*Runtime: 12 ms, faster than 69.99% of C++ online submissions for Reshape the Matrix.
+Memory Usage: 11 MB, less than 29.36% of C++ online submissions for Reshape the Matrix.*/
 
 class Solution {
 public:
