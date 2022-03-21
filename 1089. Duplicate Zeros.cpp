@@ -1,5 +1,5 @@
-Runtime: 118 ms, faster than 15.11% of C++ online submissions for Duplicate Zeros.
-Memory Usage: 9.7 MB, less than 45.50% of C++ online submissions for Duplicate Zeros.
+// Runtime: 118 ms, faster than 15.11% of C++ online submissions for Duplicate Zeros.
+// Memory Usage: 9.7 MB, less than 45.50% of C++ online submissions for Duplicate Zeros.
 
 class Solution {
 public:
