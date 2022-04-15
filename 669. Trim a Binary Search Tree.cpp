@@ -1,5 +1,5 @@
-Runtime: 16 ms, faster than 80.86% of C++ online submissions for Trim a Binary Search Tree.
-Memory Usage: 23.9 MB, less than 44.36% of C++ online submissions for Trim a Binary Search Tree.
+// Runtime: 16 ms, faster than 80.86% of C++ online submissions for Trim a Binary Search Tree.
+// Memory Usage: 23.9 MB, less than 44.36% of C++ online submissions for Trim a Binary Search Tree.
 
 /**
  * Definition for a binary tree node.
